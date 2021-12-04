@@ -11,6 +11,20 @@
   
   <!--  /Title  -->
   
+  <!-- Linked repositories -->
+  
+  ### ریپازیتوری های لینک شده
+  
+  <a href="https://github.com/evokelektrique/talio-api">API (Elixir Phoenix Framework)</a>
+  <br>
+  <a href="https://github.com/evokelektrique/talio-screenshot">Screenshot API (NodeJS)</a>
+  <br>
+  <a href="https://github.com/evokelektrique/talio-helper">Heatmap (Javascript)</a>
+  <br>
+  <a href="https://github.com/evokelektrique/talio-client">Recorder</a>  
+  
+  <!-- /Linked repositories -->
+  
   <br><br><br>
   
   <!--  Heatmap  -->
